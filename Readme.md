@@ -26,28 +26,28 @@ A full-fledged game store application built with PHP, featuring a complete e-com
 ## Pages Overview
 
 ### 1. Signup Page
-![Signup Page](Preview/Signup.jpg)
+![Signup Page](Preview/Signup.jpeg)
 
 ### 2. Login Page
-![Login Page](Preview/Login.png)
+![Login Page](Preview/Login.jpeg)
 
 ### 3. Home Page
-![Home Page](Preview/Home.png)
+![Home Page](Preview/Home.jpeg)
 
 ### 4. Product Listing Page
-![Products Page](Preview/products.png)
+![Products Page](Preview/products.jpeg)
 
 ### 5. Cart Page
-![Cart Page](Preview/cart.png)
+![Cart Page](Preview/cart.jpeg)
 
 ### 6. Checkout Page
-![Checkout Page](Preview/checkout.png)
+![Checkout Page](Preview/checkout.jpeg)
 
 ### 7. Orders Page
-![Orders Page](Preview/orders.png)
+![Orders Page](Preview/orders.jpeg)
 
 ### 8. Admin Dashboard
-![Admin Page](Preview/admin.png)
+![Admin Page](Preview/admin.jpeg)
 
 ## Installation
 
