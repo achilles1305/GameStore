@@ -87,11 +87,5 @@ A full-fledged game store application built with PHP, featuring a complete e-com
 
 Contributions are welcome! Please submit a pull request for any improvements or feature additions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **Note:** For any issues or questions, feel free to open an issue on the repository.
 
